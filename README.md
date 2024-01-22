@@ -9,13 +9,13 @@ In the present era of digital communication, more and more data is collected thr
 # ⭐️ Smart-Contracts
 
 
-([Ownership Token](https://github.com/yzyydev/ba-thesis-data-repository/blob/main/src/contracts/ERC721.sol)) 
+[Ownership Token](https://github.com/yzyydev/ba-thesis-data-repository/blob/main/src/contracts/ERC721.sol)
 
-([Data Token](https://github.com/yzyydev/ba-thesis-data-repository/blob/main/src/contracts/ERC1155.sol)) 
+[Data Token](https://github.com/yzyydev/ba-thesis-data-repository/blob/main/src/contracts/ERC1155.sol)
 
-([Marketplace Smart-Contract](https://github.com/yzyydev/ba-thesis-data-repository/blob/main/src/contracts/marketplaceBoilerplate.sol)) 
+[Marketplace Smart-Contract](https://github.com/yzyydev/ba-thesis-data-repository/blob/main/src/contracts/marketplaceBoilerplate.sol)
 
-([Data Assets Factory](https://github.com/yzyydev/ba-thesis-data-repository/blob/main/src/contracts/marketplaceERC1155.sol)) 
+[Data Assets Factory](https://github.com/yzyydev/ba-thesis-data-repository/blob/main/src/contracts/marketplaceERC1155.sol)
 
 
 # 🚀 Quick Start
