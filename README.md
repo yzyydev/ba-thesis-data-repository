@@ -3,7 +3,20 @@
 
 In the present era of digital communication, more and more data is collected through the numerous connected devices in our everyday of life, which leads to a surplus of data. These data are just stored mostly in central data storage and it is difficult to search for the relevant information. The most successful companies are already analyzing data from their industry sector. A structured data repository as a SaaS creates franchises and companies with shared data pools, a platform to integrate, exchange and analyze data sets. In this thesis, a decentralized repository for data management and monitoring data is implemented on an Ethereum testnet. This eco-system is built with ReactJS and Moralis on top of the Ethereum-boilerplate. On the platform, users should be able to buy, access, sell, and provide data sets with their connected crypto wallet. Access control to purchased data sets through the ERC-1155 token is here introduced and implemented. Further, different ERC tokens and smart contracts are proposed and implemented. The usage of the data sets can be logged on the blockchain, which interacts as a digital ledger technology. An incentive system should motivate data users and data providers to work with this platform. In the evaluation chapter, the transaction costs related to gas usage, gas price and Ethereum price are calculated and elaborated in favor to improve the system and analyze the performance. Additionally, the user experience and the user-friendliness toward the platform are discussed and concluded in the last chapter.
 
-https://github.com/yzyydev/ba-thesis-data-repository/blob/main/BA_Final_V1.pdf
+([Read Thesis here](https://github.com/yzyydev/ba-thesis-data-repository/blob/main/BA_Final_V1.pdf)) 
+
+
+# ⭐️ Smart-Contracts
+
+
+([Ownership Token](https://github.com/yzyydev/ba-thesis-data-repository/blob/main/src/contracts/ERC721.sol)) 
+
+([Data Token](https://github.com/yzyydev/ba-thesis-data-repository/blob/main/src/contracts/ERC1155.sol)) 
+
+([Marketplace Smart-Contract](https://github.com/yzyydev/ba-thesis-data-repository/blob/main/src/contracts/marketplaceBoilerplate.sol)) 
+
+([Data Assets Factory](https://github.com/yzyydev/ba-thesis-data-repository/blob/main/src/contracts/marketplaceERC1155.sol)) 
+
 
 # 🚀 Quick Start
 
